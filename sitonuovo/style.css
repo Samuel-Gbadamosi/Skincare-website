@@ -90,6 +90,16 @@ header{
 }
 
 .sect3{
-    height: 400px;
+    height: 200px;
     background-color: white;
+}
+
+.sect4{
+    height:600px;
+    background-color: white;
+}
+
+.myrow{
+    position: relative;
+    top: 90px;
 }
