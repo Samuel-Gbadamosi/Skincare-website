@@ -88,3 +88,8 @@ header{
 .sect2 div{
     padding-top: 40px;
 }
+
+.sect3{
+    height: 400px;
+    background-color: white;
+}
