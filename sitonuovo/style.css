@@ -1,0 +1,90 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+header{
+    /* height: 70px; */
+    background-color: #f8f9fa!important;
+    display: flex;
+    padding-top: 18px;
+}
+
+.myun{
+    display: flex;
+    justify-content: space-evenly;
+    list-style: none;
+    font-size: 19px;
+  
+}
+.myun i{
+    position: relative;
+    left: 120px;
+    font-size: 26px;
+}
+
+.myun li{
+    margin-left:70px;
+    padding-top: 2px;
+    font-weight: 600;
+}
+
+.mylefty{
+    height: 700px;
+    background-color: #ff6262;
+    color:white;
+    width:27%;
+    float: left;
+    padding: 10px;
+}
+
+.mymybt{
+    color:white;
+    position: relative;
+    bottom: 47px;
+
+}
+
+.myh{
+
+    height: 300px;
+    padding-top: 76px;
+    font-size: 42px;
+    font-weight: 700;
+    background-color: #ff6262;
+
+    
+}
+
+.sect1{
+    /* height: 500px; */
+    background-color: white;
+}
+
+.myp{
+    width: 62%;
+    font-family: monospace;
+    font-weight:lighter
+}
+
+.border{
+    width: 2px;
+    background-color: #000;
+    height: 120px;
+    margin-left: 13px;
+    border:1px solid #dee2e6!important;
+}
+
+.coco{
+    float: right;
+}
+
+.sect2{
+    height: 200px;
+    background-color: white;
+}
+
+.sect2 div{
+    padding-top: 40px;
+}
