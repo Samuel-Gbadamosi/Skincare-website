@@ -112,3 +112,20 @@ header{
     height: 300px;
     background-color: white;
 }
+
+
+footer{
+    height: 400px;
+    background-color: lightgrey;
+}
+.mylist{
+
+    background-color: #f2515e;
+    color: white;
+    width: 87px;
+    border-radius: 55px;
+    height: 83px;
+    margin-top: 8px;
+    text-align: center;
+    padding: 0px;
+}
