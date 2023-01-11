@@ -105,6 +105,10 @@ header{
 }
 
 .sect5{
-    height: 500px;
+    /* height: 500px; */
+    background-color: white;
+}
+.sect6{
+    height: 300px;
     background-color: white;
 }
