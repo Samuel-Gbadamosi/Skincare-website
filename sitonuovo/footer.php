@@ -74,7 +74,7 @@
         </div>
 
         <div class="mhr mt-4 ">
-          <a href="">Created by Samuel Gbadamosi © 2022 All Rights Reserved</a>
+          <a href="">Created by Samuel Gbadamosi © 2023 All Rights Reserved</a>
 
         </div>
 
