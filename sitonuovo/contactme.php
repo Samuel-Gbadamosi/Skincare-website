@@ -62,7 +62,7 @@
           </div>
           <div class="form-group">
             <label for="exampleInputEmail1">Phone Number :</label>
-            <input required type="number" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Phone Number">
+            <input required type="text" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Phone Number">
           </div>
           
           <div class="form-group">

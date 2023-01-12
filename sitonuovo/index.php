@@ -198,7 +198,7 @@
 
             <div class="row">
               <div class="col-6 offset-3" style="padding-top: 70px;">
-                <h2 style="font-size: 58px; font-weight: bold;">CONTACT US</h2>
+                <h2 style="text-align:center; font-size: 58px; font-weight: bold;">CONTACT US</h2>
         
               </div>
               <div class="col-3 pl-4">
@@ -228,7 +228,7 @@
                       </div>
                       <div class="form-group">
                         <label for="exampleInputEmail1">Phone Number :</label>
-                        <input required type="number" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Phone Number">
+                        <input required type="text" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Phone Number">
                       </div>
                       
                       <div class="form-group">
