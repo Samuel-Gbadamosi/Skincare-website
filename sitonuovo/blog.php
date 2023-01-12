@@ -125,9 +125,9 @@
       <div class="text-center">
       <p class="tf">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laborisLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris</p>
       <img class="img-fluid text-center" src="client-img.png" alt="">
-      <div class="fth4">
+      <div styyl class="fth4">
       <h5>Karen Hindd</h5>
-        <p>Oxford Student</p>
+        <p style="color:black;">Oxford Student</p>
       </div>
       </div>
     </div>
@@ -137,7 +137,7 @@
       <img style="height:160px;" src="https://cdn.pixabay.com/photo/2016/03/26/17/47/smiling-1280975__480.jpg" alt="">
       <div class="fth4">
       <h5>Jane Parker</h5>
-        <p>Maliqu. School Teacher</p>
+        <p style="color:black;">Maliqu. School Teacher</p>
       </div>
       </div>
     </div>
@@ -147,7 +147,7 @@
       <img style="height:160px;" src="https://cdn.pixabay.com/photo/2018/01/17/07/06/laptop-3087585_1280.jpg" alt="">
       <div class="fth4">
         <h5>Jessy Morgan</h5>
-        <p>Student</p>
+        <p style="color:black">Student</p>
       </div>
       </div>
     </div>

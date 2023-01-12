@@ -162,13 +162,14 @@ footer{
 .fth5{
     color:white;
 }
-.fth4{
+.fth5 ,p {
     color:white;
 }
-.fth4 , p {
-    color: white;
-    margin-top: 10px;
+.fth4{
+    color:black;
 }
+
+
 
 
 .mhr{
