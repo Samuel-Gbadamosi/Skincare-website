@@ -44,12 +44,12 @@
         <div class="col-6 mt-4">
           <div class="row">
             <div class="col-6">
-              <H4 class="fth4">PRODUCT</H4>
+              <H4 class="fth5">PRODUCT</H4>
               <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad corrupti dignissimos molestiae a animi fugit voluptate cum officia dolorum corporis ipsa expedita, numquam suscipit esse pariatur fuga totam nam eius!</p>
 
             </div>
             <div class="col-6">
-              <h4 class="fth4">SHOP</h4>
+              <h4 class="fth5">SHOP</h4>
               <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad corrupti dignissimos molestiae a animi fugit voluptate cum officia dolorum corporis ipsa expedita, numquam suscipit esse pariatur fuga totam nam eius!</p>
 
             </div>
@@ -60,12 +60,12 @@
         <div class="col-6 mt-4">
           <div class="row">
             <div class="col-6">
-              <H4 class="fth4">COMPANY</H4>
+              <H4 class="fth5">COMPANY</H4>
               <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad corrupti dignissimos molestiae a animi fugit voluptate cum officia dolorum corporis ipsa expedita, numquam suscipit esse pariatur fuga totam nam eius!</p>
 
             </div>
             <div class="col-6">
-              <H4 class="fth4">MY ACCOUNT</H4>
+              <H4 class="fth5">MY ACCOUNT</H4>
               <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad corrupti dignissimos molestiae a animi fugit voluptate cum officia dolorum corporis ipsa expedita, numquam suscipit esse pariatur fuga totam nam eius!</p>
 
             </div>
