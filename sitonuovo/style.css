@@ -95,6 +95,7 @@ header{
     background-color: white;
 }
 
+/* we need this height */
 .sect4{
     height:650px;
     background-color: white;
@@ -110,13 +111,13 @@ header{
     background-color: white;
 }
 .sect6{
-    height: 300px;
+    /* height: 300px; */
     background-color: white;
 }
 
 
 footer{
-    height: 500px;
+    /* height: 500px; */
     background-color: #2d2d2d;
     margin-top: 30px;
 }

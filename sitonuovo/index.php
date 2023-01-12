@@ -106,7 +106,7 @@
                            <div class="border mt-4"></div>
                            
                            <div class="myp mt-3">
-                            <p>consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitationconsectetur adipiscing</p>
+                            <p style="color:black;">consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitationconsectetur adipiscing</p>
 
                            </div>
                        
@@ -128,7 +128,7 @@
               <div class="text-center">
                   <h1 style="font-weight: 700; color:#363636; padding: 0px 0px 10px 0px;">PRODUCTS</h1>
                     
-                  <p style="font-family: monospace; font-weight: lighter;">Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim</p>
+                  <p style="color:black; font-family: monospace; font-weight: lighter;">Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim</p>
 
               </div>
 

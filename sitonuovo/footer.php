@@ -73,7 +73,7 @@
           </div>
         </div>
 
-        <div class="mhr mt-4 pt-4">
+        <div class="mhr mt-4 ">
           <a href="">Created by Samuel Gbadamosi © 2022 All Rights Reserved</a>
 
         </div>
