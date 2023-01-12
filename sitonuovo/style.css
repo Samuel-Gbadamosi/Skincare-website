@@ -160,10 +160,10 @@ footer{
 }
 
 .fth4{
-    color: white;
+    color:white;
 }
 .fth4 , p {
-    color: white;
+    color: black;
     margin-top: 10px;
 }
 
@@ -186,3 +186,31 @@ footer{
 
 
 
+.sec9{
+    height: 500px;
+    background:linear-gradient(90deg,#f75063 0,#f77244 100%);
+}
+
+.whitediv{
+ 
+
+    height: 400px;
+    background-color: white;
+    width: 90%;
+    margin-top: 35px;
+}
+
+.tf{
+    color:black;
+    font-family: monospace;
+}
+.custs{
+    height: 100px;
+    color:white;
+    font-weight: bolder;
+}
+
+.custs h2{
+    font-size: 43px;
+
+}

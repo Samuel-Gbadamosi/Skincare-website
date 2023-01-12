@@ -96,6 +96,82 @@
 
           </section>
 
+          <section class="sec9">
+            <div class="row">
+              <div class="col-3 pt-4">
+                <div class="custs mt-4 ml-4">
+                  <h2>CUSTOMERS SAYS</h2>
+                  <ul class="d-flex justify-content-start  list-unstyled">
+                <li class="fa-regular fa-circle p-1" href="#carouselExampleIndicators"  data-slide="prev"> 
+                  </li>
+                  
+                    <li><i class="fa-regular fa-circle p-1 "></i></li>
+                  </ul>
+                </div>
+
+              </div>
+              <div class="col-9">
+                  <div class="col-12 whitediv">
+                    
+                    <div>
+                    <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+  <ol class="carousel-indicators">
+    <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+  </ol>
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <div class="text-center">
+      <p class="tf">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laborisLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris</p>
+      <img class="img-fluid text-center" src="client-img.png" alt="">
+      <div class="fth4">
+      <h5>Karen Hindd</h5>
+        <p>Oxford Student</p>
+      </div>
+      </div>
+    </div>
+    <div class="carousel-item">
+    <div class="text-center">
+        <p class="tf">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laborisLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris</p>
+      <img style="height:160px;" src="https://cdn.pixabay.com/photo/2016/03/26/17/47/smiling-1280975__480.jpg" alt="">
+      <div class="fth4">
+      <h5>Jane Parker</h5>
+        <p>Maliqu. School Teacher</p>
+      </div>
+      </div>
+    </div>
+    <div class="carousel-item">
+    <div class="text-center" >
+    <p class="tf">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laborisLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris</p>
+      <img style="height:160px;" src="https://cdn.pixabay.com/photo/2018/01/17/07/06/laptop-3087585_1280.jpg" alt="">
+      <div class="fth4">
+        <h5>Jessy Morgan</h5>
+        <p>Student</p>
+      </div>
+      </div>
+    </div>
+  </div>
+  <!-- <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a> -->
+  <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>
+                    </div>
+
+
+                  </div>
+
+              </div>
+
+            </div>
+
+          </section>
+
    
 
 </main>
