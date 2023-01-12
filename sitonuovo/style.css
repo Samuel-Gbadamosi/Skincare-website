@@ -115,8 +115,9 @@ header{
 
 
 footer{
-    height: 400px;
-    background-color: lightgrey;
+    height: 500px;
+    background-color: #2d2d2d;
+    margin-top: 30px;
 }
 .mylist{
 
@@ -129,3 +130,56 @@ footer{
     text-align: center;
     padding: 0px;
 }
+
+.myin{
+    height: 70px;
+    background-color: white;
+    border-radius: 25px;
+
+}
+
+.figu{
+    background-color: white;
+    text-align: -webkit-match-parent;
+    border: 2px solid white;
+    width: 65%;
+    height: 48px;
+    font-size: larger;
+    padding: 1px;
+}
+
+.subbutton{
+    background-color: #f2515e;
+    position: relative;
+    bottom: 17px;
+    border-radius: 24px;
+    border:1px solid #f2515e
+}
+
+.fth4{
+    color: white;
+}
+.fth4 , p {
+    color: white;
+    margin-top: 10px;
+}
+
+
+.mhr{
+    height: 30px;
+    text-align: center;
+    background-color: #2d2d2d;
+    width: 40%;
+    color: #717171;
+    margin-left: 30%;
+   border-top: 1px solid #717171;
+   
+}
+.mhr ,a {
+    text-decoration: none;
+    color: #717171;
+
+}
+
+
+
