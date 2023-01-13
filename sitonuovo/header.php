@@ -1,4 +1,4 @@
-<header class="container-fluid sticky-top ">
+<header class=" sticky-top ">
 
 <div class="col-1">
    <h4 style="font-size: 30px; font-weight: bolder;">DENI</h4>
