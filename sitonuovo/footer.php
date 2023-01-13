@@ -72,7 +72,6 @@
           <a href="">Created by Samuel Gbadamosi © 2023 All Rights Reserved</a>
         </div>
       </div>
-
       <!-- div for footer below -->
 
     </footer>
