@@ -7,12 +7,9 @@
     <title>Home</title>
     <link rel="stylesheet" href="cdn.datatables.net/1.12.1/css/jquery.dataTables.min.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.1.3/dist/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
-
-
     <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/v/dt/dt-1.11.5/datatables.min.css" />
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
-<script type="text/javascript" src="https://cdn.datatables.net/v/dt/dt-1.11.5/datatables.min.js"></script>
-
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script type="text/javascript" src="https://cdn.datatables.net/v/dt/dt-1.11.5/datatables.min.js"></script>
     <!-- bootsrap link -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
     <!-- bootstrap link -->
@@ -22,7 +19,6 @@
     <!-- cdn -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css" integrity="sha512-MV7K8+y+gLIBoVD59lQIYicR65iaqukzvf/nwasF0nqhPay5w/9lJmVM2hMDcnK1OnMGCdVK+iQrJ7lzPJQd1w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     <!-- cdn -->
-
   </head>
   <!-- body starts -->
 <body class="container-fluid">
@@ -82,9 +78,7 @@
               <div class="carousel-item">
                 <div class="mylefty">
                   <h1 class="myh">DENI PRODUCT FOR SMOOTH SKIN</h1>
-
                   <button type="button" class="mymybt btn-lg btn-dark">Read More</button>
-
                 </div>
                 <img style="width: 65%;" class="d-block  " src="sitoimg.png" alt="First slide">
               </div>
@@ -130,6 +124,8 @@
 
          
           </section>
+          <!-- section 1 ends -->
+          <!-- section 2 start -->
           <section class="sect2">
               <div class="text-center">
                   <h1 style="font-weight: 700; color:#363636; padding: 0px 0px 10px 0px;">PRODUCTS</h1>
@@ -139,7 +135,8 @@
               </div>
 
           </section>
-          
+          <!-- section 2 ends -->
+          <!-- section 3 starts -->
           <section class="sect3 container">
             <div class="row">
               <div class="col-3 mt-5">
@@ -155,6 +152,8 @@
             </div>
 
           </section>
+                    <!-- section 3 ends -->
+                    <!-- section 4 starts -->
           <section class="sect4 container">
 
             <div class="row ">
@@ -176,8 +175,9 @@
               </div>
 
             </div>
-
           </section>
+          <!-- section4 ends -->
+          <!-- section 5 starts -->
           <section class="sect5 mb-3 container">
             <div class="row ">
               <div class="col-6 myrow">
@@ -199,7 +199,8 @@
             </div>
 
           </section>
-          <!-- contacts us section -->
+          <!-- section 5 ends -->
+          <!-- contacts me & section6 -->
           <section class="sect6 container">
 
             <div class="row">
@@ -215,6 +216,8 @@
             </div>
 
           </section>
+                    <!-- contacts me & section6 -->
+                    <!-- section 7 strts -->
           <section class="sect7 container">
             <div class="row">
               <div class="col-6">
@@ -260,8 +263,7 @@
             </div>
 
           </section>
-          
-
+                              <!-- section 7 strts -->
     </main>
     <!-- main -->
 <!-- footer -->
