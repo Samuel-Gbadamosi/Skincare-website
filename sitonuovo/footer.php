@@ -65,20 +65,12 @@
             <div class="col-6">
               <H4 class="fth5">MY ACCOUNT</H4>
               <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad corrupti dignissimos molestiae a animi fugit voluptate cum officia dolorum corporis ipsa expedita, numquam suscipit esse pariatur fuga totam nam eius!</p>
-
             </div>
-
           </div>
         </div>
-
         <div class="mhr mt-4 ">
           <a href="">Created by Samuel Gbadamosi © 2023 All Rights Reserved</a>
-
         </div>
-
-    
-        
-
       </div>
 
       <!-- div for footer below -->
