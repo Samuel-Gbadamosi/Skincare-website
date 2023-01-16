@@ -6,11 +6,8 @@
            <li class="mylist">   <i style="font-size: 37px;" class="fa-solid fa-location-pin"></i> </li>
             <li class="mylist"> <i style="font-size: 37px;" class="fa-regular fa-envelope"></i> </li>
             <li class="mylist">  <i style="font-size: 37px;" class="fa-regular fa-phone"></i> </li>
-              
             </ul>
-
           </div>
-
         </div>
         <div class="col-4 pt-3">
           <div class="myin mt-4">
@@ -73,5 +70,4 @@
         </div>
       </div>
       <!-- div for footer below -->
-
     </footer>

@@ -121,8 +121,6 @@
                      
                    </div>
               </div>
-
-         
           </section>
           <!-- section 1 ends -->
           <!-- section 2 start -->
