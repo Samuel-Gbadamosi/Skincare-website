@@ -1,5 +1,4 @@
 <header class=" sticky-top ">
-
 <div class="col-1">
    <h4 style="font-size: 30px; font-weight: bolder;">DENI</h4>
  </div>
@@ -11,7 +10,6 @@
             <li><a href="blog.php">Blog</a></li>
             <li><a href="contactme.php">Contact</a></li>
         </ul>
-
 </div>
 <div class="col-2 ml-3 pt-2">
        <ul class="ml-2 myun">

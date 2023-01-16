@@ -19,12 +19,10 @@
 </head>
 <body class="container-fluid">
     <!-- header -->
-   
     <?php include('header.php') ?>
         <!-- header -->
 <!-- main -->
     <main class="container-fluid">
-
     <section class="sect1">
               <div class="row">
                 <div class="col-6">
@@ -49,14 +47,11 @@
                             <img style="height: 450px;" src="sitoimg3.png" alt="">
                         </div>
                         </div>
-
-                     
                    </div>
               </div>
 
          
           </section>
-
 </main>
     <!-- main -->
 <!-- footer -->
