@@ -166,13 +166,8 @@
                   </div>
 
               </div>
-
             </div>
-
           </section>
-
-   
-
 </main>
     <!-- main ends -->
 <!-- footer starts -->
