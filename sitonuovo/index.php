@@ -208,11 +208,8 @@
               </div>
               <div class="col-3 pl-4">
                 <img style="height: 300px;" src="sitoimg3.png" alt="">
-        
               </div>
-
             </div>
-
           </section>
                     <!-- contacts me & section6 -->
                     <!-- section 7 strts -->
@@ -222,7 +219,6 @@
                 <div>
                   <img style="width:100%" src="creamlux.png" alt="">
                 </div>
-
               </div>
               <div class="col-6">
                <!-- contact me form div -->
@@ -246,7 +242,6 @@
                         
                         <label for="exampleInputEmail1">Message :</label>
                         <textarea required class="form-control" id="form4Example3" rows="4"></textarea>
-
                       </div>
                       <button type="submit" class="btn btn-primary">Submit</button>
                     </form>
