@@ -15,6 +15,7 @@
        <ul class="ml-2 myun">
         <i class="fa-solid fa-user"></i>
         <i class="fa-solid fa-cart-shopping"></i>   
-        <i class="fa-solid fa-magnifying-glass"></i>               </ul>
+        <i class="fa-solid fa-magnifying-glass"></i>       
+        </ul>
 </div>
 </header>
