@@ -27,13 +27,11 @@
               <div class="text-center">
                   <h1 style="font-weight: 700; color:#363636; padding: 0px 0px 10px 0px;">PRODUCTS</h1>
                     
-                  <p style="color:black;font-family: monospace; font-weight: lighter;">No Products available at the moment agna aliqua</p>
+                  <p style="color:black;font-family: monospace; font-weight: lighter;">No Products available at the moment</p>
 
               </div>
 
           </section>
-    
-
 </main>
     <!-- main -->
 <!-- footer -->
