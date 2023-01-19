@@ -22,7 +22,6 @@
         <!-- header -->
 <!-- main -->
     <main class="container-fluid">
-
     <section class="sect2">
               <div class="text-center">
                   <h1 style="font-weight: 700; color:#363636; padding: 0px 0px 10px 0px;">PRODUCTS</h1>
