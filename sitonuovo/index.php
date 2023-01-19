@@ -22,28 +22,7 @@
   <!-- body starts -->
 <body class="container-fluid">
     <!-- header -->
-    <!-- <header class="container-fluid ">
-
-        <div class="col-1">
-           <h4 style="font-size: 30px; font-weight: bolder;">DENI</h4>
-         </div>
-        <div class="col-8 pt-1">
-                <ul class=" myun">
-                    <li>Home</li>
-                    <li>About</li>
-                    <li>Product</li>
-                    <li>Blog</li>
-                    <li>Contact</li>
-                </ul>
-
-        </div>
-        <div class="col-2 ml-3 pt-2">
-               <ul class="ml-2 myun">
-                <i class="fa-solid fa-user"></i>
-                <i class="fa-solid fa-cart-shopping"></i>   
-                <i class="fa-solid fa-magnifying-glass"></i>               </ul>
-        </div>
-    </header> -->
+  
     <?php include('header.php') ?>
         <!-- header -->
 <!-- main -->
