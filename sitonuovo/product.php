@@ -29,7 +29,6 @@
                   <p style="color:black;font-family: monospace; font-weight: lighter;">No Products available at the moment</p>
 
               </div>
-
           </section>
 </main>
     <!-- main -->
