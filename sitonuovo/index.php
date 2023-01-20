@@ -114,15 +114,11 @@
           <section class="sect3 container">
             <div class="row">
               <div class="col-3 mt-5">
-
                 <h1 style="font-size: 46px; font-weight:bold; color:#464646 ;">LATEST BLOG</h1>
-
               </div>
               <div class="col-3 offset-6 ">
                <img class="mb-2" style="height: 330px;" src="cream.png" alt="">
               </div>
-              
-
             </div>
 
           </section>
