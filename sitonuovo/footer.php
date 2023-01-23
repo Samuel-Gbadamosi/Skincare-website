@@ -62,3 +62,7 @@
       </div>
       <!-- div for footer below -->
     </footer>
+    <!-- <div class="mty">
+      <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nobis fuga ratione mollitia doloremque vitae! Tenetur, nulla quo. Incidunt eius illum ratione asperiores repudiandae quis labore, ea enim necessitatibus nesciunt vel!</p>
+
+    </div> -->
