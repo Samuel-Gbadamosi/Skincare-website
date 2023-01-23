@@ -38,8 +38,6 @@ $products = $stmt->fetchAll(PDO::FETCH_ASSOC);
         <!-- header -->
 <!-- main -->
     <main class="container-fluid">
-    <?php foreach ($products as $product): ?>
-      
     <section class="sect2">
               <div class="text-center">
                   <h1 style="font-weight: 700; color:#363636; padding: 0px 0px 10px 0px;">PRODUCTS</h1>
@@ -56,7 +54,7 @@ $products = $stmt->fetchAll(PDO::FETCH_ASSOC);
                               <div class="col-3">
                                     <img style="width:165px;" src="https://cdn.pixabay.com/photo/2018/02/18/19/07/cake-3163117__480.jpg" alt="">
 
-                                    <p class="price"> <?= $product['price'] ?></p>
+                                    <p class="price">$120.00</p>
                               </div>
                               <div class="col-9 pl2">
 
@@ -74,7 +72,7 @@ $products = $stmt->fetchAll(PDO::FETCH_ASSOC);
                               <div class="col-3">
                                     <img style="width:165px;" src="https://cdn.pixabay.com/photo/2016/10/27/22/12/cakes-1776661__480.jpg" alt="">
 
-                                    <p class="price"> <?= $product['price']; ?> </p>
+                                    <p class="price">$45.00</p>
                               </div>
                               <div class="col-9 pl2">
 
@@ -94,7 +92,7 @@ $products = $stmt->fetchAll(PDO::FETCH_ASSOC);
                               <div class="col-3">
                                     <img style="width:165px;" src="https://cdn.pixabay.com/photo/2020/07/05/17/16/wedding-cake-5373757__480.jpg" alt="">
 
-                                    <p class="price"><?= $product['price'] ?></p>
+                                    <p class="price">$50.00</p>
                               </div>
                               <div class="col-9 pl2">
 
@@ -122,7 +120,8 @@ $products = $stmt->fetchAll(PDO::FETCH_ASSOC);
 
                           </div>
                       
-                    
+                     
+
                   </div>
                   <div class="container-fluid">
                   <div class="row">
@@ -158,8 +157,6 @@ $products = $stmt->fetchAll(PDO::FETCH_ASSOC);
                               </div>
 
                           </div>
-                          <?php endforeach; ?>
-
                       
                      
 
