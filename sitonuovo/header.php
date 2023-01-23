@@ -5,7 +5,7 @@
 <div class="col-8 pt-1">
         <ul class=" myun">
             <li><a href="index.php">Home</a></li>
-            <li><a href="about.php">About</a></li>
+            <li ><a id="chy" onclick="choose()" href="about.php">About</a></li>
             <li><a href="product.php">Product</a></li>
             <li><a href="blog.php">Blog</a></li>
             <li><a href="contactme.php">Contact</a></li>
@@ -19,3 +19,4 @@
         </ul>
 </div>
 </header>
+<script src="script.js"></script>
