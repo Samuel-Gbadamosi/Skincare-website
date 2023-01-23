@@ -24,26 +24,19 @@
 
 <body class="container-fluid">
   <!-- header -->
-
   <?php include('header.php') ?>
   <!-- header -->
   <!-- main -->
   <main class="container-fluid">
-
     <section class="sect3 container">
       <div class="row">
         <div class="col-3 mt-5">
-
           <h1 style="font-size: 46px; font-weight:bold; color:#464646 ;">LATEST BLOG</h1>
-
         </div>
         <div class="col-3 offset-6 ">
           <img class="mb-2" style="height: 330px;" src="cream.png" alt="">
         </div>
-
-
       </div>
-
     </section>
     <section class="sect4 container">
 
@@ -99,12 +92,9 @@
       <div class="row">
         <div class="col-3 ">
           <img style="height: 320px;" src="sitoimg3.png" alt="">
-
         </div>
-
       </div>
       </div>
-
     </section>
     <section class="sec9">
       <div class="row">

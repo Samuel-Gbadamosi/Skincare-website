@@ -1,7 +1,7 @@
 <?php 
 
 function pdo_connect_mysql(){
-//update login details
+//update login details CONNECTION
 
 $DATABASE_HOST = 'localhost';
 $DATABASE_USER= 'root';
