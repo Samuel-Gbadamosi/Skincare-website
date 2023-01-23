@@ -17,16 +17,13 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css" integrity="sha512-MV7K8+y+gLIBoVD59lQIYicR65iaqukzvf/nwasF0nqhPay5w/9lJmVM2hMDcnK1OnMGCdVK+iQrJ7lzPJQd1w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 </head>
 <body class="container-fluid">
-    <!-- header -->
-   
+    <!-- header START -->
     <?php include('header.php') ?>
-        <!-- header -->
+        <!-- header ENDS -->
 <!-- main -->
     <main class="container-fluid">
-
      <!-- contacts us section -->
      <section class="sect6 container">
-
 <div class="row">
   <div class="col-6 offset-3" style="padding-top: 70px;">
     <h2 style="font-size: 58px; font-weight: bold; text-align:center;">CONTACT US</h2>
@@ -85,6 +82,7 @@
 </div>
 
 </section>
+
 
 </main>
     <!-- main -->

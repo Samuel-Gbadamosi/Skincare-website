@@ -19,7 +19,6 @@
 <body class="container-fluid">
     <!-- header -->
     <?php include('header.php') ?>
-        <!-- header -->
 <!-- main -->
     <main class="container-fluid">
     <section class="sect1">
@@ -38,8 +37,6 @@
                             <p style="color:black;">consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitationconsectetur adipiscing</p>
 
                            </div>
-                       
-
                            <button style="height: 70px; width: 25%; " type="button" class="mt-5 btn-lg btn-dark">Read More</button>
                        
                            <div class="coco mr-4">
