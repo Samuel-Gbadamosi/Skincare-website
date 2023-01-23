@@ -38,6 +38,8 @@ $products = $stmt->fetchAll(PDO::FETCH_ASSOC);
         <!-- header -->
 <!-- main -->
     <main class="container-fluid">
+    <?php foreach ($products as $product): ?>
+      
     <section class="sect2">
               <div class="text-center">
                   <h1 style="font-weight: 700; color:#363636; padding: 0px 0px 10px 0px;">PRODUCTS</h1>
@@ -45,6 +47,127 @@ $products = $stmt->fetchAll(PDO::FETCH_ASSOC);
                   <p style="color:black;font-family: monospace; font-weight: lighter;">No Products available at the moment</p>
 
               </div>
+          </section>
+          <section class="mysect">
+              <div class="container-fluid">
+                  <div class="row">
+                      <div class="col-6">
+                          <div class="row ">
+                              <div class="col-3">
+                                    <img style="width:165px;" src="https://cdn.pixabay.com/photo/2018/02/18/19/07/cake-3163117__480.jpg" alt="">
+
+                                    <p class="price"> <?= $product['price'] ?></p>
+                              </div>
+                              <div class="col-9 pl2">
+
+                                  <h3>Choccolate-Cake</h3>
+                                  <p class="mt-4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius eaque eum ipsum recusandae, id quibusdam, ducimus quod omnis alias praesentium cumque! Sed perspiciatis harum</p>
+                              </div>
+
+                          </div>
+                             
+
+                      </div>
+                      <div class="col-6">
+
+                      <div class="row ">
+                              <div class="col-3">
+                                    <img style="width:165px;" src="https://cdn.pixabay.com/photo/2016/10/27/22/12/cakes-1776661__480.jpg" alt="">
+
+                                    <p class="price"> <?= $product['price']; ?> </p>
+                              </div>
+                              <div class="col-9 pl2">
+
+                                  <h3>Strawberry Pie-Cake</h3>
+                                  <p class="mt-4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius eaque eum ipsum recusandae, id quibusdam, ducimus quod omnis alias praesentium cumque! Sed perspiciatis harum</p>
+                              </div>
+
+                          </div>
+                      
+                     
+
+                  </div>
+                  <div class="container-fluid">
+                  <div class="row">
+                      <div class="col-6">
+                          <div class="row ">
+                              <div class="col-3">
+                                    <img style="width:165px;" src="https://cdn.pixabay.com/photo/2020/07/05/17/16/wedding-cake-5373757__480.jpg" alt="">
+
+                                    <p class="price"><?= $product['price'] ?></p>
+                              </div>
+                              <div class="col-9 pl2">
+
+                                  <h3>Pinky Cake</h3>
+                                  <p class="mt-4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius eaque eum ipsum recusandae, id quibusdam, ducimus quod omnis alias praesentium cumque! Sed perspiciatis harum</p>
+                              </div>
+
+                          </div>
+                             
+
+                      </div>
+                      <div class="col-6">
+
+                      <div class="row ">
+                              <div class="col-3">
+                                    <img style="width:165px;" src="https://cdn.pixabay.com/photo/2019/09/17/18/50/puppy-4484296__480.jpg" alt="">
+
+                                    <p class="price">$100.00</p>
+                              </div>
+                              <div class="col-9 pl2">
+
+                                  <h3>Dogs favorite Cake</h3>
+                                  <p class="mt-4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius eaque eum ipsum recusandae, id quibusdam, ducimus quod omnis alias praesentium cumque! Sed perspiciatis harum</p>
+                              </div>
+
+                          </div>
+                      
+                    
+                  </div>
+                  <div class="container-fluid">
+                  <div class="row">
+                      <div class="col-6">
+                          <div class="row ">
+                              <div class="col-3">
+                                    <img style="width:165px;" src="https://cdn.pixabay.com/photo/2017/03/10/11/58/schokomuffins-2132564__480.jpg" alt="">
+
+                                    <p class="price">$159.00</p>
+                              </div>
+                              <div class="col-9 pl2">
+
+                                  <h3>Choco-Muffins Cake</h3>
+                                  <p class="mt-4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius eaque eum ipsum recusandae, id quibusdam, ducimus quod omnis alias praesentium cumque! Sed perspiciatis harum</p>
+                              </div>
+
+                          </div>
+                             
+
+                      </div>
+                      <div class="col-6">
+
+                      <div class="row ">
+                              <div class="col-3">
+                                    <img style="width:165px;" src="https://cdn.pixabay.com/photo/2017/04/05/22/33/cake-2206618__480.jpg" alt="">
+
+                                    <p class="price">$250.00</p>
+                              </div>
+                              <div class="col-9 pl2">
+
+                                  <h3>Cream alchol Cake</h3>
+                                  <p class="mt-4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius eaque eum ipsum recusandae, id quibusdam, ducimus quod omnis alias praesentium cumque! Sed perspiciatis harum</p>
+                              </div>
+
+                          </div>
+                          <?php endforeach; ?>
+
+                      
+                     
+
+                  </div>
+                  
+
+              </div>
+
           </section>
 </main>
     <!-- main -->
