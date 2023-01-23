@@ -219,3 +219,36 @@ footer{
 
 }
 
+.mysect{
+    height: 440px;
+}
+
+.price{
+    width: 150px;
+    height: 30px;
+    background-color: #f77244;
+}
+
+.tk{
+    display: ;
+}
+.price{
+    text-align: center;
+    width: 165px;
+    font-size: 20px;
+    font-weight: bold;
+    background-color: #2B2825!important;
+    color:#E88F2A!important;
+}
+
+.pl2{
+    background-color:#959681;
+    height: 140px;
+}
+
+.pl2  h3{
+    color:rgb(53, 37, 17);
+    font-size: 30px;
+    font-weight: 900;
+    font-family: 'Courier New', Courier, monospace;
+}
