@@ -8,15 +8,11 @@ $stmt = $pdo->prepare('SELECT * FROM products');
 $stmt->execute();
 $products = $stmt->fetchAll(PDO::FETCH_ASSOC);
 
-
-
-
 ?>
 
 
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -47,7 +43,6 @@ $products = $stmt->fetchAll(PDO::FETCH_ASSOC);
         <section class="sect2">
             <div class="text-center">
                 <h1 style="font-weight: 700; color:#363636; padding: 0px 0px 10px 0px;">PRODUCTS</h1>
-
                 <p style="color:black;font-family: monospace; font-weight: lighter;">No Products available at the moment
                 </p>
 
